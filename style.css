@@ -3,7 +3,7 @@ html {
     width: 100%;
 }
 body {
- background: #000;
+    background: #000;
     background-image: url("background.png");
     background-size: 100% 120%;
     background-repeat: no-repeat;
@@ -11,8 +11,8 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    text-shadow: 15px 15px 15px #fff;
-font-weight: bold;
+    text-shadow: 15px 15px 15px #fff;   
+    font-weight: bold;
 
 }
 
