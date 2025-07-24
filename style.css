@@ -5,13 +5,15 @@ html {
 body {
  background: #000;
     background-image: url("background.png");
-    background-size: 100% 150%;
+    background-size: 100% 130%;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
     text-shadow: 2px 2px 8px #fff;
+font-weight: bold;
+
 }
 
 .container {
