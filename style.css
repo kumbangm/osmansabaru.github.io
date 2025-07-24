@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    text-shadow: #fff;
+    text-shadow: 2px 2px 8px #fff;
 }
 
 .container {
